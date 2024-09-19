@@ -20,7 +20,7 @@ print(type(y))#admite como único argumento un dato de cualquier tipo, y devuelv
 
 print(type(z))#admite como único argumento un dato de cualquier tipo, y devuelve como resultado el tipo al que pertenece dicho dato z
 
+![image](https://github.com/user-attachments/assets/e8038107-6c22-405c-904c-561cfee00acf)
 
-![image](https://github.com/user-attachments/assets/02b8cb09-f8e2-4223-8fa3-bbf61f9d64d4)
+![image](https://github.com/user-attachments/assets/71ef2f27-66ab-4810-8355-46a2aecf33be)
 
-![image](https://github.com/user-attachments/assets/25a437e8-c6d5-49f9-8398-39297f124cbf)
