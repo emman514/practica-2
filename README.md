@@ -3,7 +3,7 @@ types data de pyton
 
 print(" ")
 
-print("Emmanuel castruita soto esta es mi practica 2 data" )
+print("Emmanuel Castruita Soto esta es mi practica 2 data" )
 
 print(" ")
 
