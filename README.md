@@ -22,7 +22,11 @@ print(type(z))#admite como único argumento un dato de cualquier tipo, y devuelv
 
 print(" ")
 
-![image](https://github.com/user-attachments/assets/e8038107-6c22-405c-904c-561cfee00acf)
+#EL CODIGO
+
+![image](https://github.com/user-attachments/assets/e02ae8b8-3a17-4d1b-931a-830d17865526)
+
+#RESULTADO
 
 ![image](https://github.com/user-attachments/assets/71ef2f27-66ab-4810-8355-46a2aecf33be)
 
